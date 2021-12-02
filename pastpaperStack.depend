@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633529918 source:c:\users\samsung\desktop\code\pastpaperstack\main.cpp
+	<iostream>
+	"myStack.h"
+	<string>
+
+1633526341 c:\users\samsung\desktop\code\pastpaperstack\mystack.h
+	<iostream>
+	<string>
+	<cassert>
+
