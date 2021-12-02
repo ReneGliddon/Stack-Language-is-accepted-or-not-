@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621951286 source:c:\users\samsung\desktop\code\question3\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
